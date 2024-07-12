@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Alarmer">
+		<name >
+			Alarmer
+		</name>
+		<description >
+			An alarmer that you can count on!
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Le Bao Nguyen
+		</vendor>
+		<copyright >
+			Copyright (c) 2024 Le Bao Nguyen
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				Alarmer.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

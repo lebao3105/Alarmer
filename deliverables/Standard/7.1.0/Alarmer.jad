@@ -1,0 +1,17 @@
+MIDlet-Name: Alarmer
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Le Bao Nguyen
+MIDlet-Jar-URL: Alarmer.jar
+MIDlet-Jar-Size: 14091
+MIDlet-Description: An alarmer that you can count on!
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Alarmer,img/icon.png,
+RIM-MIDlet-Flags-1: 1
+Manifest-Version: 1.0
+RIM-COD-URL: Alarmer.cod
+RIM-COD-Size: 6256
+RIM-COD-Creation-Time: 1710799758
+RIM-COD-Module-Name: Alarmer
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: 43 71 01 aa d1 79 e6 f1 bc 5a 96 3d 6c 44 89 91 95 d2 12 ed
